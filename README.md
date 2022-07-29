@@ -1,6 +1,6 @@
-##Workout Management System
+## Workout Management System
 
-#Introduction
+**Introduction**
 
 The objective of this project was to create a fully functional CRUD application for a relational database with at least 2 entities. I did this with the utilisation of supporting tools, methodologies and technologies that we've learned over the last several weeks at the academy.
 
